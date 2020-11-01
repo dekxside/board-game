@@ -1,0 +1,16 @@
+{
+  "name": "round-and-turn-game",
+  "version": "1.0.0",
+  "description": "Multiplayer Board Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "multiplayer",
+    "board",
+    "game"
+  ],
+  "author": "Douglas Tiepolo",
+  "license": "GPL-3.0-or-later"
+}
